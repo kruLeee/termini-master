@@ -5,6 +5,9 @@ Rails.application.routes.draw do
 
   get '/o_nama' => 'pages#o_nama'
   get '/rezervisi' => 'pages#rezervisi'
+  get '/rezervisi1' => 'pages#rezervisi1'
+  get '/rezervisi2' => 'pages#rezervisi2'
+  get '/kontakt' => 'pages#kontakt'
 
 
 
