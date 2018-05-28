@@ -8,13 +8,5 @@ Rails.application.routes.draw do
   get '/rezervisi1' => 'pages#rezervisi1'
   get '/rezervisi2' => 'pages#rezervisi2'
   get '/kontakt' => 'pages#kontakt'
-
-
-
-
-   
-
-
-
-
+  get '/tereni' => 'pages#tereni'
 end
